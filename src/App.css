@@ -1,0 +1,62 @@
+body {
+  margin: 40px;
+  padding: 0;
+  background-color: #ffffff;
+}
+.welcomeText {
+  display: block;
+  position: relative;
+  text-align: center;
+  font-family: 'calibri', sans-serif;
+  font-size: 5rem;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #d45748;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.heroBanner img {
+  display: block;
+  margin: 0 auto;
+  align-items: center;
+  width: 50%;
+  max-width: 90%;
+  height: auto;
+}
+
+.boutiqueText {
+  display: block;
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #d45748;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+.newArrivalsText {
+  display: block;
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  justify-content: center;
+  margin-top: 60px;
+  color: #d45748;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+
+footer {
+  display: flex;
+  margin-left: 20px;
+  text-align: left;
+  font-size: 1.2rem;
+  padding: 6px;
+  color: rgb(41, 41, 41);
+  background-color: #f8f8f8;
+  border-top: 1px solid #ddd;
+}
