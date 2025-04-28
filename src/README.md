@@ -50,7 +50,7 @@ Before running this project, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jenplanque/poppys-boutique.git
+   git clone https://github.com/jenplanque/eComm_Product_Listing.git
    ```
 
 ---
